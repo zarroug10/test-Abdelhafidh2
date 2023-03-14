@@ -1,0 +1,29 @@
+{
+  "Myposts": [
+    {
+      "id": 636,
+      "titre": "louay ",
+      "contenu": "midfilder"
+    },
+    {
+      "id": 634,
+      "titre": "rami",
+      "contenu": "attacker"
+    },
+    {
+      "id": 633,
+      "titre": "raed",
+      "contenu": "goalkeeper"
+    },
+    {
+      "id": "24",
+      "titre": "mohammed",
+      "contenu": "striker"
+    },
+    {
+      "id": "3",
+      "titre": "hafa",
+      "contenu": "deffender"
+    }
+  ]
+}
